@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TattooShopItemArray>
+	<TattooShopItems>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>MP_Customtattoos_Tattoo_000</textLabel>
+			<collection>customtattoos_overlays</collection>
+			<preset>MP_Customtattoos_Tattoo_000_M</preset>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+			<eFaction>TATTOO_MP_FM</eFaction>
+			<lockHash />
+		</Item>
+		<Item>
+			<id value="0"/>
+			<cost value="0"/>
+			<textLabel>MP_Customtattoos_Tattoo_000</textLabel>
+			<collection>customtattoos_overlays</collection>
+			<preset>MP_Customtattoos_Tattoo_000_F</preset>
+			<zone>ZONE_RIGHT_ARM</zone>
+			<updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
+			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<lockHash />
+		</Item>
+	</TattooShopItems>
+</TattooShopItemArray>

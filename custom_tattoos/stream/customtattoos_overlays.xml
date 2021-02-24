@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PedDecorationCollection>
+  <bRequiredForSync value="true" />
+  <presets>
+  	<Item>
+      <uvPos x="0.580000" y="0.900000" />
+      <scale x="0.040000" y="0.040000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Customtattoos_Tattoo_000_M</nameHash>
+      <txdHash>MP_Customtattoos_Tattoo_000</txdHash>
+      <txtHash>MP_Customtattoos_Tattoo_000</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	<Item>
+      <uvPos x="0.480000" y="0.900000" />
+      <scale x="0.040000" y="0.040000" />
+      <rotation value="0.000000" />
+      <nameHash>MP_Customtattoos_Tattoo_000_F</nameHash>
+      <txdHash>MP_Customtattoos_Tattoo_000</txdHash>
+      <txtHash>MP_Customtattoos_Tattoo_000</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+  </presets>
+  <nameHash>customtattoos_overlays</nameHash>
+  <medalLocations content="vector2_array">
+    0.140000	0.070000
+    0.370000	0.070000
+    0.600000	0.070000
+    0.835000	0.070000
+    0.140000	0.150000
+    0.370000	0.150000
+    0.600000	0.150000
+    0.835000	0.150000
+    0.140000	0.230000
+    0.370000	0.230000
+    0.600000	0.230000
+    0.835000	0.230000
+    0.100000	0.700000
+    0.300000	0.700000
+    0.500000	0.700000
+    0.700000	0.700000
+  </medalLocations>
+  <medalScale x="0.240000" y="0.100000" />
+</PedDecorationCollection>

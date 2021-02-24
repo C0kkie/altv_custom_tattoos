@@ -1,1 +1,0 @@
-altv_custom_tattoos
