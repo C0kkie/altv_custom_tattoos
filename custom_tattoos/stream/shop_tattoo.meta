@@ -10,6 +10,7 @@
 			<zone>ZONE_RIGHT_ARM</zone>
 			<updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
 			<eFaction>TATTOO_MP_FM</eFaction>
+			<eFacing>TATTOO_RIGHT</eFacing>
 			<lockHash />
 		</Item>
 		<Item>
@@ -21,6 +22,7 @@
 			<zone>ZONE_RIGHT_ARM</zone>
 			<updateGroup>ARM_RIGHT_UPPER_SLEEVE</updateGroup>
 			<eFaction>TATTOO_MP_FM_F</eFaction>
+			<eFacing>TATTOO_RIGHT</eFacing>
 			<lockHash />
 		</Item>
 	</TattooShopItems>
